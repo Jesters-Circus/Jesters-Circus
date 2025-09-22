@@ -1,3 +1,5 @@
+![Profile views](https://komarev.com/ghpvc/?Jesters-Circus=Jesters-Circus)
+
 <h1 align="center"> ────˗ˏˋ Basic Introduction ˎˊ˗──── !</h1>
 
 <h3 align="left"> Hello ! My name is Jester , But you can call me by any aliases you know me by! I'm normally very interactive, only if you interact with me first, don't worry, I won't bite ^_^! I'm a lesbian and happily taken, I'm a minor, please know your limits when its about sexual jokes!! friends are okay though their cool.
