@@ -8,7 +8,7 @@
 
 <h1 align="center"> ────˗ˏˋ Info ˎˊ˗──── ! </h1>
 
-<h3 align="left"> C+H and INT is very encourage for me, I love interacting with new people! I add when I get to know you better first, ok? ok! Kindly don't randomly vent in my whispers unless you're a friend of mine!! I have boundaries, so if you respect mine, i'll respect yours.
+<h3 align="left"> C+H and INT is very encourage for me, I love interacting with new people! I add when I get to know you better first, ok? ok! Kindly don't randomly vent in my whispers unless you're a friend of mine!! I have boundaries, so if you respect mine, i'll respect yours. Inspo is okay with me, as long as it isn't entirely copied or similar!
 
 <h1 align="center"> ────˗ˏˋ DNI LIST ˎˊ˗────
 
