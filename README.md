@@ -7,4 +7,4 @@
 
 <img width="1005" height="985" alt="Untitled127_20250928133341" src="https://github.com/user-attachments/assets/b6ca052e-7ab5-47b0-9c98-8c5dea99b702" />
 
-<p align="center"> Art by yours truly, sign my <a href="https://devesquot.atabook.org/">Atabook</a>
+<p align="center"> ${\textsf{\color{blue}Art by yours truly, sign my}}$ <a href="https://devesquot.atabook.org/">atabook</a>
