@@ -4,7 +4,16 @@
 
 <p align="center"> ${\textsf{\color{blue}Welcome to my GitHub, Dear Robloxian.}}$
 
+$$\quad$$
 
-<img width="1005" height="985" alt="Untitled127_20251011203658" src="https://github.com/user-attachments/assets/3cec3176-bb25-4450-a972-1b90928bfdaf" />
+$$\text{Most likely with friends, I encourage you to interact with me; I don't bite.}$$
 
-<p align="center"> ${\textsf{\color{blue}Sign my}}$ <a href="https://jesterscircus.atabook.org/">atabook</a>
+$$\quad$$
+
+$$\quad$$
+
+$$\text{I can only friend you once we get to know each other better, do take note I make alot of offensive jokes; so please tell me otherwise if uncomfy.}$$
+
+$$\quad$$
+
+<p align="center"> ${\textsf{\color{blue}While you're at it, sign my}}$ <a href="https://jesterscircus.atabook.org/">atabook</a>
