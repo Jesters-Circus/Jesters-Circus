@@ -12,7 +12,7 @@ $$\quad$$
 
 $$\quad$$
 
-$$\text{I can only friend you once we get to know each other better, do take note I make alot of offensive jokes, so please tell me otherwise if uncomfy.}$$
+$$\text{I can only friend you once we get to know each other better, do take note that I make alot of jokes.}$$
 
 $$\quad$$
 
