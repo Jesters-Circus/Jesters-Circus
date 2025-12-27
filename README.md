@@ -16,4 +16,6 @@ $$\text{I can only friend you once we get to know each other better, do take not
 
 $$\quad$$
 
+<p align="center"> c+h always allowed unless stated! inspo is fine with permission.
+
 <p align="center"> ${\textsf{\color{blue}While you're at it, sign my}}$ <a href="https://jesterscircus.atabook.org/">atabook</a>
