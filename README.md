@@ -2,20 +2,18 @@
   <img src="https://ghtb-counter.vercel.app/api/counter?username=Jesters-Circus&label=Robloxians&color=63656e&labelColor=3b3a40&labelBgColor=dedede&countColor=ffffff&style=plastic" alt="Robloxians" />
 </p>
 
-<p align="center"> ${\textsf{\color{blue}Welcome to my GitHub, Dear Robloxian.}}$
+<p align="center">
+  <img src="https://github.com/Jesters-Circus/Jesters-Circus/blob/main/Untitled201_Restored_20260206101121.webp?raw=true" />
+</p>
 
 $$\quad$$
 
-$$\text{Most likely with friends, I encourage you to interact with me; I don't bite.}$$
+$$\color{#703393}{\text{ᴍᴏꜱᴛ ʟɪᴋᴇʟʏ ᴡɪᴛʜ ꜰʀɪᴇɴᴅꜱ, ɪ ᴇɴᴄᴏᴜʀᴀɢᴇ ʏᴏᴜ ᴛᴏ ɪɴᴛᴇʀᴀᴄᴛ ᴡɪᴛʜ ᴍᴇ; ɪ ᴅᴏɴ'ᴛ ʙɪᴛᴇ.}}$$
 
 $$\quad$$
 
-$$\quad$$
-
-$$\text{I can only friend you once we get to know each other better, do take note that I make alot of jokes.}$$
+$$\color{#703393}{\text{ɪ ᴄᴀɴ ᴏɴʟʏ ꜰʀɪᴇɴᴅ ʏᴏᴜ ᴏɴᴄᴇ ᴡᴇ ɢᴇᴛ ᴛᴏ ᴋɴᴏᴡ ᴇᴀᴄʜ ᴏᴛʜᴇʀ ʙᴇᴛᴛᴇʀ, ᴅᴏ ᴛᴀᴋᴇ ɴᴏᴛᴇ ᴛʜᴀᴛ ɪ ᴍᴀᴋᴇ ᴀʟᴏᴛ ᴏꜰ ᴊᴏᴋᴇꜱ.}}$$
 
 $$\quad$$
 
-<p align="center"> c+h always allowed unless stated! inspo is fine with permission.
-
-<p align="center"> ${\textsf{\color{blue}While you're at it, sign my}}$ <a href="https://jesterscircus.atabook.org/">atabook</a>
+<p align="center"> <a href="https://jesterscircus.atabook.org/">​🇦​​🇹​​🇦​​🇧​​🇴​​🇴​​🇰​</a> . <a href="https://jesterscircuses.straw.page">​🇸​​🇹​​🇷​​🇦​​🇼​​🇵​​🇦​​🇬​​🇪​</a>
