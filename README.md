@@ -3,6 +3,11 @@
 </p>
 
 <p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=times+new+roman&pause=1000&color=703393&width=435&lines=%E1%B4%A1%E1%B4%87%CA%9F%E1%B4%84%E1%B4%8F%E1%B4%8D%E1%B4%87%2C+%E1%B4%A1%E1%B4%87%CA%9F%E1%B4%84%E1%B4%8F%E1%B4%8D%E1%B4%87..+%E1%B4%85%E1%B4%87%E1%B4%80%CA%80+%CA%80%E1%B4%8F%CA%99%CA%9F%E1%B4%8Fx%C9%AA%E1%B4%80%C9%B4." alt="Typing SVG" /></a>
+</p>
+
+
+<p align="center">
   <img src="https://github.com/Jesters-Circus/Jesters-Circus/blob/main/Untitled201_Restored_20260206101121.webp?raw=true" />
 </p>
 
