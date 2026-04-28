@@ -1,14 +1,15 @@
+
 <p align="center">
   <img src="https://ghtb-counter.vercel.app/api/counter?username=Jesters-Circus&label=Robloxians&color=101616&labelColor=4C6B6E&labelBgColor=101616&countColor=4C6B6E&style=plastic" alt="Robloxians" />
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=times+new+roman&weight=900&size=25&pause=1000&color=AA290F&width=435&lines=%E1%B4%84%E1%B4%8F%EA%9C%B1%E1%B4%8D%E1%B4%8F'%EA%9C%B1+%E1%B4%84%E1%B4%8F%E1%B4%8F%E1%B4%8B%C9%AA%E1%B4%87%EA%9C%B1+%CA%99%E1%B4%80%E1%B4%8B%E1%B4%87%E1%B4%85+%E1%B4%A1%C9%AA%E1%B4%9B%CA%9C+%CA%9F%E1%B4%8F%E1%B4%A0%E1%B4%87!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&pause=1000&color=4C6B6E&width=435&lines=Something+tells+me+you+didn't+actually+search+it+up" alt="Typing SVG" /></a>
 </p>
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/83600b91-bc70-4d46-837b-b418007e9657" />
+  <img width="2400" height="2400" alt="37129" src="https://github.com/user-attachments/assets/d6c152e3-9cb9-4f29-bcc3-bde3f257c95b" />
 </p>
 
 $$\quad$$
