@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://ghtb-counter.vercel.app/api/counter?username=Jesters-Circus&label=Robloxians&color=AA290F&labelColor=ffffff&labelBgColor=AA290F&countColor=ffffff&style=plastic" alt="Robloxians" />
+  <img src="https://ghtb-counter.vercel.app/api/counter?username=Jesters-Circus&label=Robloxians&color=101616&labelColor=4C6B6E&labelBgColor=101616&countColor=4C6B6E&style=plastic" alt="Robloxians" />
 </p>
 
 <p align="center">
@@ -13,11 +13,11 @@
 
 $$\quad$$
 
-$$\color{#AA290F}{\text{ᴍᴏꜱᴛ ʟɪᴋᴇʟʏ ᴡɪᴛʜ ꜰʀɪᴇɴᴅꜱ, ɪ ᴇɴᴄᴏᴜʀᴀɢᴇ ʏᴏᴜ ᴛᴏ ɪɴᴛᴇʀᴀᴄᴛ ᴡɪᴛʜ ᴍᴇ; ɪ ᴅᴏɴ'ᴛ ʙɪᴛᴇ.}}$$
+$$\color{#4C6B6E}{\text{ᴍᴏꜱᴛ ʟɪᴋᴇʟʏ ᴡɪᴛʜ ꜰʀɪᴇɴᴅꜱ, ɪ ᴇɴᴄᴏᴜʀᴀɢᴇ ʏᴏᴜ ᴛᴏ ɪɴᴛᴇʀᴀᴄᴛ ᴡɪᴛʜ ᴍᴇ; ɪ ᴅᴏɴ'ᴛ ʙɪᴛᴇ.}}$$
 
 $$\quad$$
 
-$$\color{#AA290F}{\text{ɪ ᴄᴀɴ ᴏɴʟʏ ꜰʀɪᴇɴᴅ ʏᴏᴜ ᴏɴᴄᴇ ᴡᴇ ɢᴇᴛ ᴛᴏ ᴋɴᴏᴡ ᴇᴀᴄʜ ᴏᴛʜᴇʀ ʙᴇᴛᴛᴇʀ, ᴅᴏ ᴛᴀᴋᴇ ɴᴏᴛᴇ ᴛʜᴀᴛ ɪ ᴍᴀᴋᴇ ᴀʟᴏᴛ ᴏꜰ ᴊᴏᴋᴇꜱ.}}$$
+$$\color{#4C6B6E}{\text{ɪ ᴄᴀɴ ᴏɴʟʏ ꜰʀɪᴇɴᴅ ʏᴏᴜ ᴏɴᴄᴇ ᴡᴇ ɢᴇᴛ ᴛᴏ ᴋɴᴏᴡ ᴇᴀᴄʜ ᴏᴛʜᴇʀ ʙᴇᴛᴛᴇʀ, ᴅᴏ ᴛᴀᴋᴇ ɴᴏᴛᴇ ᴛʜᴀᴛ ɪ ᴍᴀᴋᴇ ᴀʟᴏᴛ ᴏꜰ ᴊᴏᴋᴇꜱ.}}$$
 
 $$\quad$$
 
