@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  <img width="2400" height="2400" alt="37129" src="https://github.com/user-attachments/assets/d6c152e3-9cb9-4f29-bcc3-bde3f257c95b" />
+  <img width="2400" height="2400" alt="lala" src="https://github.com/user-attachments/assets/7230d8c0-0b70-40c3-88d4-3751c5152eeb" />
 </p>
 
 $$\quad$$
