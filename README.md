@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://ghtb-counter.vercel.app/api/counter?username=Jesters-Circus&label=Robloxians&color=101616&labelColor=4C6B6E&labelBgColor=101616&countColor=4C6B6E&style=plastic" alt="Robloxians" />
+  <img src="https://ghtb-counter.vercel.app/api/counter?username=Jesters-Circus&label=Robloxians&color=101616&labelColor=787D2D&labelBgColor=101616&countColor=787D2D&style=plastic" alt="Robloxians" />
 </p>
 
 <p align="center">
@@ -9,19 +9,19 @@
 
 
 <p align="center">
-  <img width="2400" height="2400" alt="lala" src="https://github.com/user-attachments/assets/7230d8c0-0b70-40c3-88d4-3751c5152eeb" />
+  <img width="2500" height="2500" alt="37263" src="https://github.com/user-attachments/assets/086cbfb1-1a9f-4f5c-9691-04795a62bd84" />
 </p>
 
 $$\quad$$
 
-$$\color{#4C6B6E}{\text{ᴍᴏꜱᴛ ʟɪᴋᴇʟʏ ᴡɪᴛʜ ꜰʀɪᴇɴᴅꜱ, ɪ ᴇɴᴄᴏᴜʀᴀɢᴇ ʏᴏᴜ ᴛᴏ ɪɴᴛᴇʀᴀᴄᴛ ᴡɪᴛʜ ᴍᴇ; ɪ ᴅᴏɴ'ᴛ ʙɪᴛᴇ.}}$$
+$$\color{#74856D}{\text{ᴍᴏꜱᴛ ʟɪᴋᴇʟʏ ᴡɪᴛʜ ꜰʀɪᴇɴᴅꜱ, ɪ ᴇɴᴄᴏᴜʀᴀɢᴇ ʏᴏᴜ ᴛᴏ ɪɴᴛᴇʀᴀᴄᴛ ᴡɪᴛʜ ᴍᴇ; ɪ ᴅᴏɴ'ᴛ ʙɪᴛᴇ.}}$$
 
 $$\quad$$
 
 <p align="left">
-$$\color{#4C6B6E}{\text{ɪ ᴄᴀɴ ᴏɴʟʏ ꜰʀɪᴇɴᴅ ʏᴏᴜ ᴏɴᴄᴇ ᴡᴇ ɢᴇᴛ ᴛᴏ ᴋɴᴏᴡ ᴇᴀᴄʜ ᴏᴛʜᴇʀ ʙᴇᴛᴛᴇʀ.}}$$
+$$\color{#787D2D}{\text{ɪ ᴄᴀɴ ᴏɴʟʏ ꜰʀɪᴇɴᴅ ʏᴏᴜ ᴏɴᴄᴇ ᴡᴇ ɢᴇᴛ ᴛᴏ ᴋɴᴏᴡ ᴇᴀᴄʜ ᴏᴛʜᴇʀ ʙᴇᴛᴛᴇʀ.}}$$
 <p align="right">
-$$\color{#4C6B6E}{\text{ᴅᴏ ᴛᴀᴋᴇ ɴᴏᴛᴇ ᴛʜᴀᴛ ɪ ᴍᴀᴋᴇ ᴀʟᴏᴛ ᴏꜰ ᴊᴏᴋᴇꜱ.}}$$
+$$\color{#866224}{\text{ᴅᴏ ᴛᴀᴋᴇ ɴᴏᴛᴇ ᴛʜᴀᴛ ɪ ᴍᴀᴋᴇ ᴀʟᴏᴛ ᴏꜰ ᴊᴏᴋᴇꜱ.}}$$
 
 $$\quad$$
 
